@@ -1,0 +1,1 @@
+A software where you can get all the available computer parts such as processor, RAM, hard disk, and many more with current price and rating. You can also search for any particular computer parts and check the compatibility of different computer parts. The entire system was built from the very scratch with the help of Java GUI and SQL. 
